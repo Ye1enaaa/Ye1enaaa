@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Capstone Project
 
-- 🌱 I’m currently learning **Laravel and Flutter**
+- 🌱 I’m currently learning **Internet of Things**
 
 - 💬 Ask me about **laravel**
 
