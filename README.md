@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Capstone Project
 
-- 🌱 I’m currently learning **Internet of Things**
+- 🌱 I’m currently learning **Internet of Things, React, and Express**
 
 - 💬 Ask me about **laravel**
 
