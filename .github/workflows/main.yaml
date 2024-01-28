@@ -4,10 +4,10 @@ on:
   push:
     branches:
       - main
-  schedule:
+  #schedule:
     # README updates every new hour
     # Use '0 */1 * * *' or '@hourly'
-    - cron: '*/5 * * * *'
+  #  - cron: '*/5 * * * *'
 
 jobs:
   build:
