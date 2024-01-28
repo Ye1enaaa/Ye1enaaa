@@ -1,7 +1,7 @@
-const dotenv = require('dotenv').config();
-const Mustache = require('mustache');
-const fetch = require('node-fetch');
-const fs = require('fs');
+import dotenv from 'dotenv';
+import Mustache from 'mustache';
+import fetch from 'node-fetch';
+import fs from 'fs';
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 let DATA = {
