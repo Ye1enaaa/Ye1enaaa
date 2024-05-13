@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Management Systems
 
-- 🌱 I’m currently learning **Internet of Things, React, and Express**
+- 🌱 I’m currently learning **Django, React, and Express**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **avilasonson@gmail.com**
 
